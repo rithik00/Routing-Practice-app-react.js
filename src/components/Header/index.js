@@ -11,7 +11,7 @@ const Header = () => (
         className="logo"
         src="https://assets.ccbp.in/frontend/react-js/wave-logo-img.png"
       />
-      <h1 className="title">Wave</h1>
+      <h1 className="title">wave</h1>
     </div>
 
     <ul className="nav-items-list">
